@@ -13,24 +13,24 @@ i hate those bitches so much i'm learning fflags
 
 <details>
 <summary>Disable Facial Animations</summary>
-`"FFlagEnableBetaFacialAnimation2": false,`
-`"FFlagFacialAnimationSupport1": false,`
-`"FFlagEnableCameraByDefault": false,`
-`"DFFlagVideoCaptureServiceEnabled": false,`
-`"FFlagAvatarChatSettingsEnabled2": false,`
-`"FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": false,`
-`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableVideo": false,` 
-`"FFlagFacialAnimationStreamingServiceUserSettingsOptInAudio": false,`
-`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": false,`
-`"DFFlagAvatarChatServiceUserPermissionsAudioOptIn": false,`
-`"DFFlagAvatarChatServiceUserPermissionsAudioEligible": false,`
-`"FFlagVoiceChatServiceManagerUseAvatarChat": false,`
-`"FFlagAvatarChatServiceExposeClientFeaturesForVoiceChat": false,`
+`"FFlagEnableBetaFacialAnimation2": false,`<br>
+`"FFlagFacialAnimationSupport1": false,`<br>
+`"FFlagEnableCameraByDefault": false,`<br>
+`"DFFlagVideoCaptureServiceEnabled": false,`<br>
+`"FFlagAvatarChatSettingsEnabled2": false,`<br>
+`"FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": false,`<br>
+`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableVideo": false,`<br>
+`"FFlagFacialAnimationStreamingServiceUserSettingsOptInAudio": false,`<br>
+`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": false,`<br>
+`"DFFlagAvatarChatServiceUserPermissionsAudioOptIn": false,`<br>
+`"DFFlagAvatarChatServiceUserPermissionsAudioEligible": false,`<br>
+`"FFlagVoiceChatServiceManagerUseAvatarChat": false,`<br>
+`"FFlagAvatarChatServiceExposeClientFeaturesForVoiceChat": false,`<br>
 </details>
 
 <details>
 <summary>Enable Extra Graphics Quality Options</summary>
-`"FFlagFixGraphicsQuality": true,`
+`"FFlagFixGraphicsQuality": true,`<br>
 `"FFlagCommitToGraphicsQualityFix": true,`
 </details>
 
@@ -41,7 +41,7 @@ i hate those bitches so much i'm learning fflags
 
 <details>
 <summary>GUI Hiding</summary>
-Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.
+Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.<br>
 
 | Key combination |	Action |
 | --------------- | ------ |
@@ -55,10 +55,10 @@ Set this to the ID of a group you're in. Here are the following keyboard shortcu
 
 <details>
 <summary>New Escape Menu</summary>
-`"FFlagDisableNewIGMinDUA": true,`
-`"FFlagEnableInGameMenuControls": true,`
-`"FFlagEnableMenuControlsABTest": false,`
-`"FFlagEnableMenuModernizationABTest": false,`
-`"FFlagEnableMenuModernizationABTest2": false,`
+`"FFlagDisableNewIGMinDUA": true,`<br>
+`"FFlagEnableInGameMenuControls": true,`<br>
+`"FFlagEnableMenuControlsABTest": false,`<br>
+`"FFlagEnableMenuModernizationABTest": false,`<br>
+`"FFlagEnableMenuModernizationABTest2": false,`<br>
 `"FFlagEnableV3MenuABTest3": false,`
 </details>
