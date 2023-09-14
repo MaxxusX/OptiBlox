@@ -13,35 +13,44 @@ i hate those bitches so much i'm learning fflags
 
 <details>
 <summary>Disable Facial Animations</summary>
-`"FFlagEnableBetaFacialAnimation2": false,`<br>
-`"FFlagFacialAnimationSupport1": false,`<br>
-`"FFlagEnableCameraByDefault": false,`<br>
-`"DFFlagVideoCaptureServiceEnabled": false,`<br>
-`"FFlagAvatarChatSettingsEnabled2": false,`<br>
-`"FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": false,`<br>
-`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableVideo": false,`<br>
-`"FFlagFacialAnimationStreamingServiceUserSettingsOptInAudio": false,`<br>
-`"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": false,`<br>
-`"DFFlagAvatarChatServiceUserPermissionsAudioOptIn": false,`<br>
-`"DFFlagAvatarChatServiceUserPermissionsAudioEligible": false,`<br>
-`"FFlagVoiceChatServiceManagerUseAvatarChat": false,`<br>
-`"FFlagAvatarChatServiceExposeClientFeaturesForVoiceChat": false,`<br>
+
+```json
+"FFlagEnableBetaFacialAnimation2": false,
+"FFlagFacialAnimationSupport1": false,
+"FFlagEnableCameraByDefault": false,
+"DFFlagVideoCaptureServiceEnabled": false,
+"FFlagAvatarChatSettingsEnabled2": false,
+"FFlagFacialAnimationStreamingServiceUserSettingsOptInVideo": false,
+"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableVideo": false,
+"FFlagFacialAnimationStreamingServiceUserSettingsOptInAudio": false,
+"FFlagFacialAnimationStreamingServiceUniverseSettingsEnableAudio": false,
+"DFFlagAvatarChatServiceUserPermissionsAudioOptIn": false,
+"DFFlagAvatarChatServiceUserPermissionsAudioEligible": false,
+"FFlagVoiceChatServiceManagerUseAvatarChat": false,
+"FFlagAvatarChatServiceExposeClientFeaturesForVoiceChat": false,
+```
 </details>
 
 <details>
 <summary>Enable Extra Graphics Quality Options</summary>
-`"FFlagFixGraphicsQuality": true,`<br>
-`"FFlagCommitToGraphicsQualityFix": true,`
+
+```json
+"FFlagFixGraphicsQuality": true,
+"FFlagCommitToGraphicsQualityFix": true,
+```
 </details>
 
 <details>
 <summary>Disable Wind (for grass n' stuff)</summary>
-`"FFlagGlobalWindRendering": false,`
+
+```json
+"FFlagGlobalWindRendering": false,
+```
 </details>
 
 <details>
 <summary>GUI Hiding</summary>
-Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.<br>
+Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.<br><br>
 
 | Key combination |	Action |
 | --------------- | ------ |
@@ -50,15 +59,20 @@ Set this to the ID of a group you're in. Here are the following keyboard shortcu
 | Ctrl + Shift + G | Toggles Roblox CoreGuis |
 | Ctrl + Shift + N | Toggles player names, and other BillboardGuis that show up above a player |
 
-`"DFIntCanHideGuiGroupId": 5959518,`
+```json
+"DFIntCanHideGuiGroupId": 5959518,
+```
 </details>
 
 <details>
 <summary>New Escape Menu</summary>
-`"FFlagDisableNewIGMinDUA": true,`<br>
-`"FFlagEnableInGameMenuControls": true,`<br>
-`"FFlagEnableMenuControlsABTest": false,`<br>
-`"FFlagEnableMenuModernizationABTest": false,`<br>
-`"FFlagEnableMenuModernizationABTest2": false,`<br>
-`"FFlagEnableV3MenuABTest3": false,`
+
+```json
+"FFlagDisableNewIGMinDUA": true,
+"FFlagEnableInGameMenuControls": true,
+"FFlagEnableMenuControlsABTest": false,
+"FFlagEnableMenuModernizationABTest": false,
+"FFlagEnableMenuModernizationABTest2": false,
+"FFlagEnableV3MenuABTest3": false,
+```
 </details>
