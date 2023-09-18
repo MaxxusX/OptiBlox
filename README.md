@@ -53,10 +53,11 @@ Set this to the ID of a group you're in. Here are the following keyboard shortcu
 
 To change from v4 to v2, find these flags and set them all to false.<br>
 ```json
-"FFlagEnableMenuModernizationABTest": false,
-"FFlagEnableMenuModernizationABTest2": false,
+"FFlagEnableInGameMenuChrome": true,
+"FFlagEnableMenuModernizationABTest": true,
+"FFlagEnableMenuModernizationABTest2": true,
 "FFlagEnableV3MenuABTest3": false,
-"FFlagEnableMenuControlsABTest": false,
+"FFlagEnableMenuControlsABTest": true,
 "FFlagEnableInGameMenuControls": true,
 "FFlagDisableNewIGMinDUA": true,
 ```
