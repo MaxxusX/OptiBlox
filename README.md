@@ -1,13 +1,22 @@
 # OptiBlox
 
-[RCO](https://github.com/L8X/Roblox-Client-Optimizer) + [RFO](https://github.com/rbxflags/Flags)<br>
+[RCO](https://github.com/L8X/Roblox-Client-Optimizer) + [RFO](https://github.com/rbxflags/Flags) + some other stuff<br>
 because I hate [xhax](https://github.com/L8X) and [kaiddd](https://github.com/kaiddd)
 
 
-i hate those bitches so much i'm learning fflags
-
-
 # things
+
+## gui hiding
+
+At the top of the file, you should see `"DFIntCanHideGuiGroupId": 5959518,`.<br>
+Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.<br><br>
+
+| Key combination |	Action |
+| --------------- | ------ |
+| Ctrl + Shift + B | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc) |
+| Ctrl + Shift + C | Toggles game-defined ScreenGuis |
+| Ctrl + Shift + G | Toggles Roblox CoreGuis |
+| Ctrl + Shift + N | Toggles player names, and other BillboardGuis that show up above a player |
 
 ## optional settings
 
@@ -32,15 +41,6 @@ i hate those bitches so much i'm learning fflags
 </details>
 
 <details>
-<summary>Enable Extra Graphics Quality Options</summary>
-
-```json
-"FFlagFixGraphicsQuality": true,
-"FFlagCommitToGraphicsQualityFix": true,
-```
-</details>
-
-<details>
 <summary>Disable Wind (for grass n' stuff)</summary>
 
 ```json
@@ -49,30 +49,15 @@ i hate those bitches so much i'm learning fflags
 </details>
 
 <details>
-<summary>GUI Hiding</summary>
-Set this to the ID of a group you're in. Here are the following keyboard shortcuts it provides for toggling the visibility of GUI elements.<br><br>
+<summary>Revert to Menu v2</summary>
 
-| Key combination |	Action |
-| --------------- | ------ |
-| Ctrl + Shift + B | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc) |
-| Ctrl + Shift + C | Toggles game-defined ScreenGuis |
-| Ctrl + Shift + G | Toggles Roblox CoreGuis |
-| Ctrl + Shift + N | Toggles player names, and other BillboardGuis that show up above a player |
-
+To change from v4 to v2, find these flags and set them all to false.<br>
 ```json
-"DFIntCanHideGuiGroupId": 5959518,
-```
-</details>
-
-<details>
-<summary>New Escape Menu</summary>
-
-```json
-"FFlagDisableNewIGMinDUA": true,
-"FFlagEnableInGameMenuControls": true,
-"FFlagEnableMenuControlsABTest": false,
 "FFlagEnableMenuModernizationABTest": false,
 "FFlagEnableMenuModernizationABTest2": false,
 "FFlagEnableV3MenuABTest3": false,
+"FFlagEnableMenuControlsABTest": false,
+"FFlagEnableInGameMenuControls": true,
+"FFlagDisableNewIGMinDUA": true,
 ```
 </details>
