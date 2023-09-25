@@ -1,7 +1,7 @@
 # OptiBlox
 
-[RCO](https://github.com/L8X/Roblox-Client-Optimizer) + [RFO](https://github.com/rbxflags/Flags) + some other stuff<br>
-because I hate [xhax](https://github.com/L8X) and [kaiddd](https://github.com/kaiddd)
+R(C/F)O and some stuff<br>
+xhax is stupid and kaiddd is a dumbass
 
 
 # things
