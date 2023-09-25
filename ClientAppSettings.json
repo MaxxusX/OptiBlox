@@ -3,7 +3,7 @@
 
 
   "FStringMightBreak": "",
-  "DFFlagDebugPerfMode": true
+  "DFFlagDebugPerfMode": true,
   "FFlagEnableQuickGameLaunch": true,
 
   "DFIntCanHideGuiGroupId": 5959518,
