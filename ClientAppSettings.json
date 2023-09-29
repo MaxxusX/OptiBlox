@@ -30,6 +30,10 @@
   "FFlagDebugGraphicsPreferD3D11": true,
   "FFlagDebugForceFutureIsBrightPhase3": true,
   "DFFlagDisableDPIScale": true,
+  
+  "FIntCameraMaxZoomDistance": "9999999",
+  
+  "FFlagInGameMenuV1FullScreenTitleBar": false
 
 
   "FStringRCO": "156mxsedition",
