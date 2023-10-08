@@ -1,5 +1,5 @@
 {
-  "FStringOptiBloxVer": "5",
+  "FStringOptiBloxVer": "6",
 
 
   "FStringMightBreak": "",
@@ -7,6 +7,7 @@
   "FFlagEnableQuickGameLaunch": true,
 
   "DFIntCanHideGuiGroupId": 5959518,
+  "FStringWhitelistVerifiedUserId": "1056542255",
 
   "DFIntTaskSchedulerTargetFps": 99999999,
 
@@ -33,7 +34,7 @@
   
   "FIntCameraMaxZoomDistance": "9999999",
   
-  "FFlagInGameMenuV1FullScreenTitleBar": false
+  "FFlagInGameMenuV1FullScreenTitleBar": false,
 
 
   "FStringRCO": "156mxsedition",
