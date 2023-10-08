@@ -1,5 +1,5 @@
 {
-  "FStringOptiBloxVer": "6",
+  "FStringOptiBloxVer": "7",
 
 
   "FStringMightBreak": "",
@@ -14,6 +14,7 @@
   "FFlagFixGraphicsQuality": true,
   "FFlagCommitToGraphicsQualityFix": true,
 
+  "FFlagEnableInGameMenuModernization": true,
   "FFlagEnableInGameMenuChrome": true,
   "FFlagEnableMenuModernizationABTest": true,
   "FFlagEnableMenuModernizationABTest2": true,
