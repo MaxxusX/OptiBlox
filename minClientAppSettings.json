@@ -1,0 +1,11 @@
+{
+  "FFlagEnableQuickGameLaunch": true,
+
+  "DFIntCanHideGuiGroupId": 5959518,
+  "FStringWhitelistVerifiedUserId": "1056542255",
+
+  "DFIntTaskSchedulerTargetFps": 99999999,
+
+  "FFlagFixGraphicsQuality": true,
+  "FFlagCommitToGraphicsQualityFix": true
+}

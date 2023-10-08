@@ -6,6 +6,15 @@ xhax is stupid and kaiddd is a dumbass
 
 # things
 
+## issues with arsenal
+
+the following flags cause arsenal to freeze roblox for some reason.
+
+```json
+"FFlagEnableInGameMenuModernization": true,
+"FFlagEnableInGameMenuChrome": true,
+```
+
 ## gui hiding
 
 At the top of the file, you should see `"DFIntCanHideGuiGroupId": 5959518,`.<br>
@@ -53,12 +62,7 @@ Set this to the ID of a group you're in. Here are the following keyboard shortcu
 
 To change from v4 to v2, find these flags and set them all to false.<br>
 ```json
+"FFlagEnableInGameMenuModernization": true,
 "FFlagEnableInGameMenuChrome": true,
-"FFlagEnableMenuModernizationABTest": true,
-"FFlagEnableMenuModernizationABTest2": true,
-"FFlagEnableV3MenuABTest3": false,
-"FFlagEnableMenuControlsABTest": true,
-"FFlagEnableInGameMenuControls": true,
-"FFlagDisableNewIGMinDUA": true,
 ```
 </details>
