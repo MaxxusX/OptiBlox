@@ -3,6 +3,8 @@
 
 
   "FStringMightBreak": "",
+  "FFlagEnableInGameMenuModernization": true,
+  "FFlagEnableInGameMenuChrome": true,
   "FFlagEnableQuickGameLaunch": true,
 
   "DFIntCanHideGuiGroupId": 5959518,
