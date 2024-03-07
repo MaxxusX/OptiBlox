@@ -1,3 +1,6 @@
+> [!CAUTION]
+> # roblox disabled editing fflags. this no longer works.
+
 # OptiBlox
 
 this probably sucks im still learning this stuff but it works for me
